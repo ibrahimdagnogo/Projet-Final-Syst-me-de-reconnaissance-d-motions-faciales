@@ -1,8 +1,8 @@
 streamlit
-opencv-python-headless
-numpy
+opencv-python-headless==4.11.0.86
+numpy<2
 joblib
 scikit-learn
 keras-facenet
-tensorflow
+tensorflow==2.18.0
 Pillow
